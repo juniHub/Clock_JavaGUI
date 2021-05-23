@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Robot](https://res.cloudinary.com/dafolrlpj/image/upload/v1621682773/gallery/mx7ulz7bi4nktkrirpgu.png)
+![Clock](https://res.cloudinary.com/dafolrlpj/image/upload/v1621774022/gallery/idp2mmafp2dgrfpnyaqm.gif)
 
 
 
@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Juni Nguyen- [Hello Juni](mailto:hellojuninguyen@gmail.com)
 
-Project Link: [Java GUI Robot](https://github.com/juniHub/JavaGUI-clock)
+Project Link: [Java GUI Clock](https://github.com/juniHub/JavaGUI-clock)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
