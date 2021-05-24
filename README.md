@@ -136,8 +136,8 @@ Project Link: [Java GUI Clock](https://github.com/juniHub/JavaGUI-clock)
 [forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-clock.svg?style=for-the-badge
 [forks-url]: https://github.com/juniHub/JavaGUI-clock/network/members
 [stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-clock.svg?style=for-the-badge
-[stars-url]: https://github.comjuniHub/JavaGUI-clock/stargazers
+[stars-url]: https://github.com/juniHub/JavaGUI-clock/stargazers
 [issues-shield]: https://img.shields.io/github/issues/juniHub/JavaGUI-clock.svg?style=for-the-badge
-[issues-url]: https://github.com/gjuniHub/JavaGUI-clock/issues
+[issues-url]: https://github.com/juniHub/JavaGUI-clock/issues
 [license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-clock.svg?style=for-the-badge
 [license-url]: https://github.com/juniHub/JavaGUI-clock/blob/master/LICENSE.txt
